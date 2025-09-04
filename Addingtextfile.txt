@@ -1,2 +1,2 @@
 #testing adding new file in my localfeaturebranch
-#Adding the new changes and pushing to remote using command line
+#then pushing it to remote repository
